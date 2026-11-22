@@ -1,4 +1,4 @@
-Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Sun Nov 22 04:28:33 2026
+Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Sun Nov 22 06:29:27 2026
 
 [34m =========================================( [0m[32mTarget Information[0m[34m )=========================================
 
@@ -272,5 +272,5 @@ S-1-5-21-1042354039-2475377354-766472396-1049 METASPLOITABLE\cdrom (Domain Group
 [0mNo printers returned.
 
 
-enum4linux complete on Sun Nov 22 04:28:59 2026
+enum4linux complete on Sun Nov 22 06:29:37 2026
 
